@@ -1,0 +1,1 @@
+Para rodar, só consegui inserindo o comando "java app.main" no arquivo main
